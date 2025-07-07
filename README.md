@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @rob-builds-future
 - 👀 I’m interested in Mobile Development
-- 🌱 I’m currently learning Swift and Kotlin coding language
+- 🌱 I’m currently specialising in Swift and Kotlin coding language
 - 💞️ I’m looking to collaborate on projects that realise the unique possibilities of mobile devices to make people reach their personal goals
 - 📫 How to reach me: www.linkedin.com/in/rbettinghausen
 
